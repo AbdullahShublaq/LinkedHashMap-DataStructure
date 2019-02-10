@@ -7,7 +7,7 @@ package linkedhashmap;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  * @param <E>
  * @param <T>
  */
